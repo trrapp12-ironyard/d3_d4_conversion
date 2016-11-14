@@ -12,5 +12,11 @@
 2. practice reading documentation
 3. convert a pre-made project from D3 version 3.5.5 to D3 version 4.3.0.
 
+
+###Project published at: 
+---
+
+[d3_d4_conversion](https://trrapp12-ironyard.github.io/d3_d4_conversion/)
+
 \*<sub>*Original code was take from Curran Kelleher's [Introduction to D3](http://curran.github.io/screencasts/introToD3/examples/viewer/#/96).*</sub>
 <sub>*Small modifications made by myself to make forward compatible to D3 version 4.3.0*</sub>
