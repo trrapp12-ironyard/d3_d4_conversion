@@ -1,5 +1,7 @@
 # d3_d4_conversion
 ---
+<br/>
+d
 
 The purpose of this assignment was to 
 1. familiarize ourselves with D3 syntax and logic
