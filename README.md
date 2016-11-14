@@ -1,7 +1,7 @@
 # d3_d4_conversion
 ---
-<br/>
-d
+
+![d3_d4_conversion screen shot](https://cloud.githubusercontent.com/assets/11747875/20286661/2da5510a-aa85-11e6-94d7-decb9f655d18.png)
 
 The purpose of this assignment was to 
 1. familiarize ourselves with D3 syntax and logic
