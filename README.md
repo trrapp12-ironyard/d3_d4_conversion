@@ -6,7 +6,7 @@
 
 
 
-####The purpose of this assignment was to:
+###The purpose of this assignment was to:
 ---
 1. familiarize ourselves with D3 syntax and logic
 2. practice reading documentation
