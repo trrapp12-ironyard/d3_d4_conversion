@@ -7,11 +7,14 @@
 
 
 
-###The purpose of this assignment was to:
+###Assignment Demonstrates:
 ---
-1. familiarize ourselves with D3 syntax and logic
-2. practice reading documentation
-3. convert a pre-made project from D3 version 3.5.5 to D3 version 4.3.0.
+
+- [x] familiarize ourselves with D3 syntax and logic
+
+- [x] practice reading documentation
+
+- [x] convert a pre-made project from D3 version 3.5.5 to D3 version 4.3.0.
 <br/>
 <br/>
 
