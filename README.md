@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-\*<sub>*Original code was take from Curran Kelleher's [Introduction to D3](http://curran.github.io/screencasts/introToD3/examples/viewer/#/96).*</sub>
+\*\*<sub>*Original code was take from Curran Kelleher's [Introduction to D3](http://curran.github.io/screencasts/introToD3/examples/viewer/#/96).*</sub>
 <sub>*Small modifications made by myself to make forward compatible to D3 version 4.3.0*</sub>
 
 
